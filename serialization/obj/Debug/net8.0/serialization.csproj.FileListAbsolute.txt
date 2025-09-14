@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\технологии программирования\serialization\bin\Debug\net8.0\serialization.exe
+C:\Users\User\Desktop\технологии программирования\serialization\bin\Debug\net8.0\serialization.deps.json
+C:\Users\User\Desktop\технологии программирования\serialization\bin\Debug\net8.0\serialization.runtimeconfig.json
+C:\Users\User\Desktop\технологии программирования\serialization\bin\Debug\net8.0\serialization.dll
+C:\Users\User\Desktop\технологии программирования\serialization\bin\Debug\net8.0\serialization.pdb
+C:\Users\User\Desktop\технологии программирования\serialization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\serialization.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\serialization.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\serialization.AssemblyInfo.cs
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\serialization.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\serializ.9A35636F.Up2Date
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\serialization.dll
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\refint\serialization.dll
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\serialization.pdb
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\serialization.genruntimeconfig.cache
+C:\Users\User\Desktop\технологии программирования\serialization\obj\Debug\net8.0\ref\serialization.dll
