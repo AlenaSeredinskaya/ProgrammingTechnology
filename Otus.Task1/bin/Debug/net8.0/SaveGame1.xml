@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SaveFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CurrentLocation>Dungeon</CurrentLocation>
+  <u level="10">
+    <Name>Пушкин</Name>
+    <Gender>Male</Gender>
+    <JsonGender>Male</JsonGender>
+    <gender>m</gender>
+  </u>
+  <Items>
+    <Item>
+      <Name>Топор</Name>
+      <Quantity>2</Quantity>
+    </Item>
+  </Items>
+  <CreatedDate>2025-10-02T11:58:29.6711693+07:00</CreatedDate>
+  <SaveDate>2025-10-02T11:58:29.7055831+07:00</SaveDate>
+  <FileName>SaveGame1</FileName>
+</SaveFile>

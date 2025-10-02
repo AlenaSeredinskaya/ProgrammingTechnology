@@ -1,0 +1,17 @@
+{
+  "CreatedDate": "2025-10-02T11:58:29.6711693+07:00",
+  "SaveDate": "2025-10-02T11:58:29.7055831+07:00",
+  "FileName": "SaveGame1",
+  "CurrentLocation": "Dungeon",
+  "u": {
+    "Level": 10,
+    "Name": "Пушкин",
+    "gender": "m"
+  },
+  "Items": [
+    {
+      "Name": "Топор",
+      "Quantity": 2
+    }
+  ]
+}
