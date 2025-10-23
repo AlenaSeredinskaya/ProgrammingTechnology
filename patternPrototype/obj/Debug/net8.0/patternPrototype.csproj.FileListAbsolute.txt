@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\технологии программирования\patternPrototype\bin\Debug\net8.0\patternPrototype.exe
+C:\Users\User\Desktop\технологии программирования\patternPrototype\bin\Debug\net8.0\patternPrototype.deps.json
+C:\Users\User\Desktop\технологии программирования\patternPrototype\bin\Debug\net8.0\patternPrototype.runtimeconfig.json
+C:\Users\User\Desktop\технологии программирования\patternPrototype\bin\Debug\net8.0\patternPrototype.dll
+C:\Users\User\Desktop\технологии программирования\patternPrototype\bin\Debug\net8.0\patternPrototype.pdb
+C:\Users\User\Desktop\технологии программирования\patternPrototype\obj\Debug\net8.0\patternPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\технологии программирования\patternPrototype\obj\Debug\net8.0\patternPrototype.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\технологии программирования\patternPrototype\obj\Debug\net8.0\patternPrototype.AssemblyInfo.cs
+C:\Users\User\Desktop\технологии программирования\patternPrototype\obj\Debug\net8.0\patternPrototype.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\технологии программирования\patternPrototype\obj\Debug\net8.0\patternPrototype.dll
+C:\Users\User\Desktop\технологии программирования\patternPrototype\obj\Debug\net8.0\refint\patternPrototype.dll
+C:\Users\User\Desktop\технологии программирования\patternPrototype\obj\Debug\net8.0\patternPrototype.pdb
+C:\Users\User\Desktop\технологии программирования\patternPrototype\obj\Debug\net8.0\patternPrototype.genruntimeconfig.cache
+C:\Users\User\Desktop\технологии программирования\patternPrototype\obj\Debug\net8.0\ref\patternPrototype.dll
